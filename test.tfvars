@@ -1,0 +1,8 @@
+Instance_type  = "t2.nano"
+Region         = "eu-west-1"
+Vpc_cidr       = "10.0.0.0/17"
+Prod-pub-sub1  = "10.0.10.0/24"
+Prod-pub-sub2  = "10.0.12.0/24"
+Prod-priv-sub1 = "10.0.14.0/24"
+Prod-priv-sub2 = "10.0.16.0/24" 
+ami            = "ami-00aa9d3df94c6c354"
